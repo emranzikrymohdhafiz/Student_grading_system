@@ -13,6 +13,7 @@ $result = $stmt->get_result();
 </head>
 <body>
     <h1>Student Grading System</h1>
+    <h1></h1>
 
     <a href="add.php">Add Student Result</a>
     <form method="GET" action="">
